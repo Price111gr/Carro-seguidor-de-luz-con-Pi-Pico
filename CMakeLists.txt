@@ -18,6 +18,7 @@ add_executable(pwmAdcC
     src/pwm.s
     src/adc.s
     src/main.s
+    src/gpio.s
 )
 
 # Header folder
